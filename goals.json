@@ -1,0 +1,678 @@
+[
+  {
+    "name": "UPSC CSE - GS",
+    "uid": "KSCGY"
+  },
+  {
+    "name": "Bank Exams",
+    "uid": "RTPSX"
+  },
+  {
+    "name": "IIT JEE",
+    "uid": "TMUVD"
+  },
+  {
+    "name": "SSC Exams (Non Technical)/ Railway Exams",
+    "uid": "VLEMN"
+  },
+  {
+    "name": "UPSC CSE - Optional",
+    "uid": "NYHNH"
+  },
+  {
+    "name": "UPSC CSE - GS",
+    "uid": "KSCGY"
+  },
+  {
+    "name": "UPSC - Centres",
+    "uid": "XFVVT"
+  },
+  {
+    "name": "IIT JEE",
+    "uid": "TMUVD"
+  },
+  {
+    "name": "NEET UG",
+    "uid": "YOTUH"
+  },
+  {
+    "name": "SRG",
+    "uid": "RHYUK"
+  },
+  {
+    "name": "Foundation",
+    "uid": "TPSBK"
+  },
+  {
+    "name": "GATE - CSIT, DSAI & Interview Preparation",
+    "uid": "NVLIA"
+  },
+  {
+    "name": "GATE & ESE - ME & CH",
+    "uid": "QGFRK"
+  },
+  {
+    "name": "GATE & ESE - Civil",
+    "uid": "PZSIU"
+  },
+  {
+    "name": "GATE & ESE - EE, EC",
+    "uid": "JAQRK"
+  },
+  {
+    "name": "IIT-JAM ",
+    "uid": "SIFWL"
+  },
+  {
+    "name": "SSC JE & State AE Exams - (Hindi + English)",
+    "uid": "BDNTN"
+  },
+  {
+    "name": "SSC JE & State AE/JE - English",
+    "uid": "YPHIH"
+  },
+  {
+    "name": "GATE - PCM",
+    "uid": "TGAUE"
+  },
+  {
+    "name": "GATE - XE ",
+    "uid": "BFLWJ"
+  },
+  {
+    "name": "RRB Junior Engineering",
+    "uid": "WUOQT"
+  },
+  {
+    "name": "AAI - Jr. Executive",
+    "uid": "JNPTH"
+  },
+  {
+    "name": "CA Final Group 1",
+    "uid": "WKQWQ"
+  },
+  {
+    "name": "CA Final Group 2",
+    "uid": "JUYYX"
+  },
+  {
+    "name": "CA Intermediate",
+    "uid": "RXRWJ"
+  },
+  {
+    "name": "CA Foundation",
+    "uid": "BBKWG"
+  },
+  {
+    "name": "CS Professional - Module 2",
+    "uid": "XFULP"
+  },
+  {
+    "name": "CS Professional - Module 1",
+    "uid": "AXQJC"
+  },
+  {
+    "name": "CS Executive - Module 2",
+    "uid": "KZXZX"
+  },
+  {
+    "name": "CS Executive - Module 1",
+    "uid": "EUDWC"
+  },
+  {
+    "name": "CSEET",
+    "uid": "MCRYW"
+  },
+  {
+    "name": "CA Final Audit",
+    "uid": "JXSFF"
+  },
+  {
+    "name": "CA Final FR",
+    "uid": "MIFAB"
+  },
+  {
+    "name": "CA Final DT",
+    "uid": "WSFGN"
+  },
+  {
+    "name": "CA Final AFM",
+    "uid": "BWIOK"
+  },
+  {
+    "name": "Judiciary - PCS (J)",
+    "uid": "CKTCQ"
+  },
+  {
+    "name": "CSIR-UGC NET",
+    "uid": "BIZXQ"
+  },
+  {
+    "name": "NTA-UGC-NET & SET Exams",
+    "uid": "TEWDQ"
+  },
+  {
+    "name": "CAT & Other MBA Entrance Tests",
+    "uid": "XNDUS"
+  },
+  {
+    "name": "GD, PI & WAT for CAT & OMETs",
+    "uid": "OWYKF"
+  },
+  {
+    "name": "Bank Exams",
+    "uid": "RTPSX"
+  },
+  {
+    "name": "CAIIB Exams",
+    "uid": "MDMDJ"
+  },
+  {
+    "name": "Bank Regulatory Body Exams",
+    "uid": "SASYW"
+  },
+  {
+    "name": "SSC Exams (Non Technical)/ Railway Exams",
+    "uid": "VLEMN"
+  },
+  {
+    "name": "Bank Interviews",
+    "uid": "IBQKI"
+  },
+  {
+    "name": "JAIIB Exams",
+    "uid": "POSYS"
+  },
+  {
+    "name": "Services Selection Board (SSB)",
+    "uid": "GUVHW"
+  },
+  {
+    "name": "NDA",
+    "uid": "DANNJ"
+  },
+  {
+    "name": "Agnipath Exams",
+    "uid": "EJTZD"
+  },
+  {
+    "name": "CDS/AFCAT/CAPF",
+    "uid": "TUNWK"
+  },
+  {
+    "name": "CLAT & Other 5-year LLB Exams",
+    "uid": "MRZFY"
+  },
+  {
+    "name": "3-Year LLB Entrance Exams",
+    "uid": "UXSVA"
+  },
+  {
+    "name": "CLAT PG & Other LLM Exams",
+    "uid": "VVEMV"
+  },
+  {
+    "name": "English by Rani Singh",
+    "uid": "TNLGY"
+  },
+  {
+    "name": "English by Aman Vashishth",
+    "uid": "OHOLZ"
+  },
+  {
+    "name": "NEET PG Vitals (Recorded)",
+    "uid": "ZXOSY"
+  },
+  {
+    "name": "MHT CET",
+    "uid": "KNMDN"
+  },
+  {
+    "name": "Post Graduate Program in Civil Engineering ",
+    "uid": "CODZH"
+  },
+  {
+    "name": "Post Graduate Program in Electrical and Electronics Engineering",
+    "uid": "YEXWD"
+  },
+  {
+    "name": "NEET PG (Live)",
+    "uid": "SDDOC"
+  },
+  {
+    "name": "Madhya Pradesh State Exams",
+    "uid": "GWDPV"
+  },
+  {
+    "name": "Post Graduate Program in Mechanical Engineering ",
+    "uid": "JGYTX"
+  },
+  {
+    "name": "APO/ADPO/APP/ADA",
+    "uid": "FUUWV"
+  },
+  {
+    "name": "SSC GD Constable",
+    "uid": "BEWXO"
+  },
+  {
+    "name": "WBPSC - O2 Academia",
+    "uid": "NKUUK"
+  },
+  {
+    "name": "NEET UG - Hindi Medium",
+    "uid": "GMVDZ"
+  },
+  {
+    "name": "MPSC Rajyaseva Optional",
+    "uid": "TIYFJ"
+  },
+  {
+    "name": "NEET UG Crash Course",
+    "uid": "AANDM"
+  },
+  {
+    "name": "NEET UG Saransh",
+    "uid": "JOBHP"
+  },
+  {
+    "name": "Kerala HSST - GK",
+    "uid": "TGEHP"
+  },
+  {
+    "name": "Assam PSC",
+    "uid": "OYIXP"
+  },
+  {
+    "name": "CMA Foundation",
+    "uid": "ONGDB"
+  },
+  {
+    "name": "Karnataka PSC",
+    "uid": "LVECA"
+  },
+  {
+    "name": "MP Patwari",
+    "uid": "IADGS"
+  },
+  {
+    "name": "CMA Intermediate Group 1",
+    "uid": "CQPNT"
+  },
+  {
+    "name": "Odisha SSC & Banking",
+    "uid": "BVHCS"
+  },
+  {
+    "name": "IELTS",
+    "uid": "DZVHL"
+  },
+  {
+    "name": "TNPSC Group 4 and VAO",
+    "uid": "LFUWW"
+  },
+  {
+    "name": "TS EAMCET & AP EAMCET",
+    "uid": "ATNZB"
+  },
+  {
+    "name": "Maharashtra Technical Services",
+    "uid": "WQMVB"
+  },
+  {
+    "name": "Kerala Administrative Services",
+    "uid": "ILFLK"
+  },
+  {
+    "name": "FR Fast Track",
+    "uid": "SNKSP"
+  },
+  {
+    "name": "WBP & Gen Combined Exams",
+    "uid": "UMTAN"
+  },
+  {
+    "name": "Audit Fast Track",
+    "uid": "FHBMS"
+  },
+  {
+    "name": "Karnataka Teaching Exams",
+    "uid": "XFOIT"
+  },
+  {
+    "name": "Gujarat Class 3 Exams",
+    "uid": "RUJGA"
+  },
+  {
+    "name": "FR Regular",
+    "uid": "VMJDS"
+  },
+  {
+    "name": "Maharashtra Group C Services",
+    "uid": "TZNQX"
+  },
+  {
+    "name": "SFM Regular",
+    "uid": "NYUPE"
+  },
+  {
+    "name": "Maharashtra Bharti Exams",
+    "uid": "ZYCWC"
+  },
+  {
+    "name": "JPSC",
+    "uid": "AELON"
+  },
+  {
+    "name": "SCMPE Regular",
+    "uid": "PSLTX"
+  },
+  {
+    "name": "Kerala PSC",
+    "uid": "ZIUBD"
+  },
+  {
+    "name": "TNPSC",
+    "uid": "ZISFF"
+  },
+  {
+    "name": "MPSC",
+    "uid": "GNFFE"
+  },
+  {
+    "name": "CGPSC",
+    "uid": "YJDYV"
+  },
+  {
+    "name": "CA Foundation Scholarship Test",
+    "uid": "CWKIN"
+  },
+  {
+    "name": "Bank Live Value Batch",
+    "uid": "MEMCQ"
+  },
+  {
+    "name": "Bihar State Exams",
+    "uid": "QOIVT"
+  },
+  {
+    "name": "Uttar Pradesh State Exams",
+    "uid": "XCTVJ"
+  },
+  {
+    "name": "Odisha State Exams",
+    "uid": "XTKHH"
+  },
+  {
+    "name": "Rajasthan State Exams",
+    "uid": "SCANJ"
+  },
+  {
+    "name": "Jammu & Kashmir State Exams",
+    "uid": "EGKYI"
+  },
+  {
+    "name": "Gujarat State Exams",
+    "uid": "RJVOD"
+  },
+  {
+    "name": "Punjab State Exams",
+    "uid": "CAQPI"
+  },
+  {
+    "name": "Haryana State Exams",
+    "uid": "BACWG"
+  },
+  {
+    "name": "West Bengal State Exams",
+    "uid": "UQCMN"
+  },
+  {
+    "name": "North India State Exams",
+    "uid": "YFUQW"
+  },
+  {
+    "name": "Bank SO Exams",
+    "uid": "BLRLU"
+  },
+  {
+    "name": "MAH MBA CET",
+    "uid": "ZDYHU"
+  },
+  {
+    "name": "BITSAT",
+    "uid": "LZOEO"
+  },
+  {
+    "name": "Food Corporation of India (FCI)",
+    "uid": "ZSQTH"
+  },
+  {
+    "name": "AP & TS Law CET",
+    "uid": "NLRIE"
+  },
+  {
+    "name": "Railway Exams",
+    "uid": "QJEJG"
+  },
+  {
+    "name": "APPSC and TSPSC Live",
+    "uid": "QKHZF"
+  },
+  {
+    "name": "IIT JEE Rank Booster",
+    "uid": "QRXJQ"
+  },
+  {
+    "name": "SSC CHSL",
+    "uid": "DUQVT"
+  },
+  {
+    "name": "Uttarakhand PSC ",
+    "uid": "QPWGQ"
+  },
+  {
+    "name": "Elective Law (6D) Regular",
+    "uid": "RJBGW"
+  },
+  {
+    "name": "Direct Tax Regular",
+    "uid": "WFUBE"
+  },
+  {
+    "name": "Indirect Tax Regular",
+    "uid": "QUGCL"
+  },
+  {
+    "name": "Commercial Pilot License",
+    "uid": "OGRZS"
+  },
+  {
+    "name": "CUET UG Domain",
+    "uid": "PEJLJ"
+  },
+  {
+    "name": "SAT",
+    "uid": "PZHXA"
+  },
+  {
+    "name": "CUET (Language & General Test)",
+    "uid": "BVSHK"
+  },
+  {
+    "name": "GRE",
+    "uid": "FUUES"
+  },
+  {
+    "name": "GMAT",
+    "uid": "WLEYI"
+  },
+  {
+    "name": "Spoken English",
+    "uid": "AZAJU"
+  },
+  {
+    "name": "GPAT & Other Pharma Exams",
+    "uid": "EZHWY"
+  },
+  {
+    "name": "EPFO Exams",
+    "uid": "KMOCY"
+  },
+  {
+    "name": "NORCET",
+    "uid": "SYNGO"
+  },
+  {
+    "name": "NCHMCT JEE",
+    "uid": "FLUDC"
+  },
+  {
+    "name": "DSSSB/KVS/SuperTET/NVS/APS",
+    "uid": "RYNDN"
+  },
+  {
+    "name": "Teaching Superpack",
+    "uid": "GMXMZ"
+  },
+  {
+    "name": "CFA Level 1",
+    "uid": "RQTII"
+  },
+  {
+    "name": "Agriculture Exams",
+    "uid": "AAPPA"
+  },
+  {
+    "name": "MBBS Prof 1   ",
+    "uid": "PMUST"
+  },
+  {
+    "name": "MBBS Prof 2",
+    "uid": "IRJSW"
+  },
+  {
+    "name": "MBBS Prof 3",
+    "uid": "PQGBE"
+  },
+  {
+    "name": "NID, NIFT & Other Design Entrance Exams",
+    "uid": "MFEQD"
+  },
+  {
+    "name": "NEET UG - Pro",
+    "uid": "HYYIC"
+  },
+  {
+    "name": "UPSC CSE - Iconic Pro",
+    "uid": "LJIFZ"
+  },
+  {
+    "name": "IIT JEE - Pro",
+    "uid": "RTIME"
+  },
+  {
+    "name": "GATE - Iconic Pro",
+    "uid": "PESHE"
+  },
+  {
+    "name": "Olympiads",
+    "uid": "QATWT"
+  },
+  {
+    "name": "CBSE Class 12",
+    "uid": "PLWCX"
+  },
+  {
+    "name": "CBSE Class 11",
+    "uid": "GWDPZ"
+  },
+  {
+    "name": "CBSE Class 10",
+    "uid": "GSZGO"
+  },
+  {
+    "name": "CBSE Class 9",
+    "uid": "SUVLV"
+  },
+  {
+    "name": "CBSE Class 8",
+    "uid": "TICPI"
+  },
+  {
+    "name": "CBSE Class 7",
+    "uid": "RJDNO"
+  },
+  {
+    "name": "CBSE Class 6",
+    "uid": "KVBFU"
+  },
+  {
+    "name": "HSC Class 11",
+    "uid": "CVGGX"
+  },
+  {
+    "name": "SSC Class 9",
+    "uid": "CBUOY"
+  },
+  {
+    "name": "ISC Class 11",
+    "uid": "RGCYQ"
+  },
+  {
+    "name": "ICSE Class 10",
+    "uid": "IEODS"
+  },
+  {
+    "name": "ICSE Class 9",
+    "uid": "TBKXZ"
+  },
+  {
+    "name": "Creative Corner",
+    "uid": "NUIIB"
+  },
+  {
+    "name": "WBCHSE Class 11 & 12",
+    "uid": "TEWKL"
+  },
+  {
+    "name": "WBBSE - Class 9 & 10",
+    "uid": "AVFAX"
+  },
+  {
+    "name": "MH SSC Class 10",
+    "uid": "IEIJT"
+  },
+  {
+    "name": "Class 10th Hindi Medium",
+    "uid": "HSFPO"
+  },
+  {
+    "name": "Class 9th Hindi Medium",
+    "uid": "CVUPT"
+  },
+  {
+    "name": "Class 12th Hindi Medium",
+    "uid": "BZNXZ"
+  },
+  {
+    "name": "Class 11th Hindi Medium",
+    "uid": "TMGMC"
+  },
+  {
+    "name": "MH HSC Class 12",
+    "uid": "JWBRG"
+  },
+  {
+    "name": "CBSE Class 10 - Science Answer Writing",
+    "uid": "URMVE"
+  },
+  {
+    "name": "CBSE Class 10 - English Answer Writing",
+    "uid": "UAKVR"
+  },
+  {
+    "name": "CBSE Class 12 - English Answer Writing",
+    "uid": "XSZHR"
+  }
+]
